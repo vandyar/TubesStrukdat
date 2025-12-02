@@ -1,7 +1,6 @@
 #ifndef ROUTE_H_INCLUDED
 #define ROUTE_H_INCLUDED
 
-
 #include<iostream>
 
 using namespace std;
@@ -24,5 +23,7 @@ typedef Rute adrRute;
 
 
 adrHalte newHalte(string name)
+findNama
+
 
 
